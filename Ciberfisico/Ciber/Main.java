@@ -137,8 +137,8 @@ public class Main {
         imprimir("Número de misses: " + teste.getMisses());
         imprimir("Taxas de aceretos (hits): " + taxaAcertos(hits, quantidadeAcessos) + "%");
         imprimirLinha(80);
-        imprimir("Conectividade em Sistemas Ciberfísicos - Prof. Guilherme - Mapeamento Direto");
-        imprimir("Feito por: Equipe 02 - Julia Helena e Maria Fernanda ");
+        imprimir("Performance em Sistemas Ciberfísicos - Prof. Guilherme - Mapeamento Direto");
+        imprimir("Feito por: Julia Helena ");
         imprimirLinha(80);
     }
 
@@ -246,8 +246,8 @@ public class Main {
         imprimir("Número de misses: " + teste2.getMisses());
         imprimir("Taxas de aceretos (hits): " + taxaAcertos(hits, quantidadeAcessos) + "%");
         imprimirLinha(95);
-        imprimir("Conectividade em Sistemas Ciberfísicos - Prof. Guilherme - Mapeamento Associativo por conjunto");
-        imprimir("Feito por: Equipe 02 - Julia Helena e Maria Fernanda ");
+        imprimir("Performance em Sistemas Ciberfísicos - Prof. Guilherme - Mapeamento Associativo por conjunto");
+        imprimir("Feito por: Julia Helena");
         imprimirLinha(95);
     }
 
